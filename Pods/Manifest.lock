@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.9.1)
+  - ImageSlideshow (1.8.3):
+    - ImageSlideshow/Core (= 1.8.3)
+  - ImageSlideshow/Core (1.8.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - ImageSlideshow
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ImageSlideshow
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+
+PODFILE CHECKSUM: 8c5da888e6b64a3436c9c06d6e04eb337133cc8c
+
+COCOAPODS: 1.8.4
